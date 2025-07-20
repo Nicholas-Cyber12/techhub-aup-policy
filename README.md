@@ -1,4 +1,4 @@
-# TechHub Acceptable Use Policy (AUP)
+# TechHub Ltd Acceptable Use Policy (AUP)
 
 This repository contains a professionally written Acceptable Use Policy (AUP) for TechHub Ltd. The AUP outlines expected behavior for employees when using company devices, networks, and systems.
 
